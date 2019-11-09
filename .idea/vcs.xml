@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/Sites/socialreviews-merchant-dashboard" vcs="Git" />
+    <mapping directory="$USER_HOME$/Sites/socialreviews-wordpress-integration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../bluesames/wp-content/plugins/socialreviews-wordpress-integration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/lacasera/api-jwt-scaffold" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../urban-transport" vcs="Git" />
+  </component>
+</project>
